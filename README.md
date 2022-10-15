@@ -49,7 +49,6 @@ I learned to use root for color vairables, to use box zising and create simples 
 
 I need to say thanks for my teachar [CodingTube](https://www.youtube.com/watch?v=MIQPdsaOyDQ)
 
-## Author
+This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-- Website - [Coming Soon](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/LPabloA)
+**Have fun building!** 🚀
