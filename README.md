@@ -56,4 +56,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 ## Author
 
 - Website - [Coming Soon](https://lpabloa.github.io/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/LPabloA)
+- Frontend Mentor - [LPabloA](https://www.frontendmentor.io/profile/LPabloA)
