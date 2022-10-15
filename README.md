@@ -52,3 +52,8 @@ I need to say thanks for my teachar [CodingTube](https://www.youtube.com/watch?v
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+## Author
+
+- Website - [Coming Soon](https://lpabloa.github.io/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/LPabloA)
